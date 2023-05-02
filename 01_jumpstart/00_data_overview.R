@@ -4,7 +4,7 @@
 
 
 # LIBRARIES ----
-library(tidyverse)
+pacman::p_load(tidymodels,modeltime,DataExplorer)
 
 
 # DATA -----
